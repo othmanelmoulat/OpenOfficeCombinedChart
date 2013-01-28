@@ -1,0 +1,11 @@
+###### Progress log entry 2013-01-12 00:55:12 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: com.sun.star.openofficecombinedchart.OpenOfficeCombinedChart", Context = (com.sun.star.uno.XInterface) @2ed8698 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: com.sun.star.openofficecombinedchart.OpenOfficeCombinedChart", Context = (com.sun.star.uno.XInterface) @2ed8698 }, ArgumentPosition = (short) -1 }
+Copying: OpenOfficeCombinedChart.oxt
+###### Progress log entry 2013-01-12 00:55:26 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @3a044fc }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @3a044fc }, ArgumentPosition = (short) -1 }
+Copying: dict-en.oxt
+###### Progress log entry 2013-01-12 01:19:44 ######
+Copying: OpenOfficeCombinedChart.oxt
+###### Progress log entry 2013-01-12 01:19:52 ######

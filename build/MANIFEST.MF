@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 19.1-b02 (Sun Microsystems Inc.)
+UNO-Type-Path: 
+RegistrationClassName: com.sun.star.openofficecombinedchart.CentralReg
+ istrationClass
+Class-Path: 
+
+Name: com/sun/star/openofficecombinedchart/CentralRegistrationClass.cl
+ ass
+RegistrationClasses: com.sun.star.openofficecombinedchart.OpenOfficeCo
+ mbinedChart
+
